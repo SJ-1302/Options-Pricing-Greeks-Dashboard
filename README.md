@@ -1,15 +1,15 @@
-# 📊 Options Pricing & Greeks Dashboard
+# Options Pricing & Greeks Dashboard
 
 A production-quality, interview-ready Python dashboard for real-time NSE options analysis using the **Black-Scholes pricing model**. Built with Streamlit, Plotly, NumPy, Pandas, and SciPy.
 
 ## Features
 
-### 🔢 Black-Scholes Pricing Engine
+### Black-Scholes Pricing Engine
 - Analytical closed-form European option pricing
 - Put-Call Parity verification
 - Newton-Raphson Implied Volatility solver
 
-### 📐 All 5 Greeks (Properly Scaled)
+### All 5 Greeks (Properly Scaled)
 | Greek | Description | Scaling |
 |-------|-------------|---------|
 | **Delta** | Price sensitivity to underlying | Per ₹1 move |
@@ -18,20 +18,20 @@ A production-quality, interview-ready Python dashboard for real-time NSE options
 | **Vega** | Volatility sensitivity | **Per 1% IV change** |
 | **Rho** | Interest rate sensitivity | **Per 1% rate change** |
 
-### 📊 Interactive Dashboard (5 Tabs)
+### Interactive Dashboard (5 Tabs)
 1. **Option Chain** — Full chain table with mispricing analysis (market vs BS price)
 2. **Greeks Analysis** — Individual Greek plots (Delta, Gamma, Theta, Vega, Rho) vs strike
 3. **Greeks Heatmap** — 2D heatmap across Greeks and strikes
 4. **Pricing & IV** — Market vs BS price comparison + IV Smile/Skew curve
 5. **Payoff Diagram** — Interactive P&L chart with configurable position
 
-### 🔄 Data Pipeline
+### Data Pipeline
 - **Live API**: Fetches from NSE option chain endpoint
 - **Mock Fallback**: Realistic simulated data with proper IV smile, OI distribution, and volume
 - **Seamless Switch**: Same schema for both — downstream code is source-agnostic
 - **Caching**: 5-minute Streamlit cache for performance
 
-### 🎯 Instruments Supported
+### Instruments Supported
 - **NIFTY 50** (Lot size: 25, Strike gap: ₹50)
 - **Bank NIFTY** (Lot size: 15, Strike gap: ₹100)
 
