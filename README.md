@@ -149,4 +149,3 @@ Rho (PE)   = -K·T·e^(-rT)·N(-d₂) / 100
 
 ---
 
-*Built for quantitative finance interviews and portfolio analysis.*
