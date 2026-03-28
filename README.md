@@ -1,6 +1,6 @@
 # Options Pricing & Greeks Dashboard
 
-A production-quality, interview-ready Python dashboard for real-time NSE options analysis using the **Black-Scholes pricing model**. Built with Streamlit, Plotly, NumPy, Pandas, and SciPy.
+Built a real-time options pricing dashboard for NIFTY and BANKNIFTY contracts using live NSE option chain data, implementing the Black–Scholes model with Greeks calculation to enable options trading strategy analysis and risk management for retail traders.
 
 ## Features
 
