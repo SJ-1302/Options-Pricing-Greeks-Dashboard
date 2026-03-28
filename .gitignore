@@ -1,0 +1,26 @@
+# Python Cache and Environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env/
+.venv/
+
+# Secrets (Do NOT upload!)
+.env
+secret.py
+secrets.json
+
+# IDE
+.vscode/
+.idea/
+.spyderproject/
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# Streamlit config (if you don't want to expose themes)
+# .streamlit/
+
