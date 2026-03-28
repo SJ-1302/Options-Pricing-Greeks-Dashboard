@@ -25,9 +25,9 @@ Built a real-time options pricing dashboard for NIFTY and BANKNIFTY contracts us
 4. **Pricing & IV** — Market vs BS price comparison + IV Smile/Skew curve
 5. **Payoff Diagram** — Interactive P&L chart with configurable position
 
-# 🎥 Live Project Demo
+# Live Project Demo
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 
 <p align="center">
   <img src="images/Screen Recording 2026-03-28 151126 - frame at 0m51s.jpg" width="800"/>
@@ -35,9 +35,9 @@ Built a real-time options pricing dashboard for NIFTY and BANKNIFTY contracts us
 
 ---
 
-## ⚡ Key Functionalities
+## Key Functionalities
 
-### 📡 Option Chain Data
+### Option Chain Data
 
 <p align="center">
   <img src="images/Screen Recording 2026-03-28 151126 - frame at 0m55s.jpg" width="700"/>
@@ -45,7 +45,7 @@ Built a real-time options pricing dashboard for NIFTY and BANKNIFTY contracts us
 
 ---
 
-### 📈 Greeks Calculation
+### Greeks Calculation
 
 <p align="center">
   <img src="images/Screen Recording 2026-03-28 151126 - frame at 1m1s.jpg" width="700"/>
@@ -53,7 +53,7 @@ Built a real-time options pricing dashboard for NIFTY and BANKNIFTY contracts us
 
 ---
 
-### 🎯 Strategy Analysis
+### Strategy Analysis
 
 <p align="center">
   <img src="images/Screen Recording 2026-03-28 151126 - frame at 1m13s.jpg" width="700"/>
@@ -61,7 +61,7 @@ Built a real-time options pricing dashboard for NIFTY and BANKNIFTY contracts us
 
 ---
 
-### 📉 Risk Visualization
+### Risk Visualization
 
 <p align="center">
   <img src="images/Screen Recording 2026-03-28 151126 - frame at 1m16s.jpg" width="700"/>
@@ -69,7 +69,7 @@ Built a real-time options pricing dashboard for NIFTY and BANKNIFTY contracts us
 
 ---
 
-## 🧠 Additional Views
+## Additional Views
 
 <p align="center">
   <img src="images/Screen Recording 2026-03-28 151126 - frame at 1m18s.jpg" width="45%"/>
